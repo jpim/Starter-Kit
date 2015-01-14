@@ -7,4 +7,4 @@ Starter kit for new sites. Includes:
 * Reset CSS
 * Basic layout, using inline-block
 
-To use, **download** the [zip file](https://github.com/tsl-html-css/scaffold/archive/master.zip).
+To use, **download** the [zip file](https://github.com/tsl-html-css/Starter-Kit/archive/master.zip).
