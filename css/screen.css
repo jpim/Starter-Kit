@@ -1,8 +1,7 @@
-.wrap {
-    margin: 0 auto;
-    max-width: 1000px;
-    padding: 0 20px;
-    background: white;
+/* GENERAL */
+
+html {
+    font-size: 16px;
 }
 
 body {
@@ -18,6 +17,15 @@ a {
 
 p {
     margin-bottom: 1.1em;
+}
+
+/* SPECIFIC */
+
+.wrap {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 20px;
+    background: white;
 }
 
 h1 {
@@ -39,7 +47,7 @@ h1 {
 .main {
     width: 65%;
     margin-right: 5%;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .side {
