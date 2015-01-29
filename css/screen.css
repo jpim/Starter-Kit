@@ -70,25 +70,22 @@ p {
   padding: 0 20px;
   background: white; }
 
+.content {
+  padding: 20px 0;
+  font-size: 0; }
+  .content .main, .content .side {
+    display: inline-block;
+    vertical-align: top; }
+  .content .main {
+    width: 65%;
+    margin-right: 5%;
+    font-size: 1rem; }
+  .content .side {
+    width: 30%;
+    color: #666;
+    font-size: 14px; }
+
 h1 {
   font-size: 24px;
   font-weight: bold;
   margin-bottom: .8em; }
-
-.content {
-  padding: 20px 0;
-  font-size: 0; }
-
-.main, .side {
-  display: inline-block;
-  vertical-align: top; }
-
-.main {
-  width: 65%;
-  margin-right: 5%;
-  font-size: 1rem; }
-
-.side {
-  width: 30%;
-  color: #666;
-  font-size: 14px; }
